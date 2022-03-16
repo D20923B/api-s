@@ -1,0 +1,11 @@
+Lets discuss Api
+now you will see tons of data about this on the internet and it will tell you a lot of different things about it but the most basic thing that you have to know
+about an api is 'It is a program which is working with another porgam over the internet to process the data and give you the output' this is the fundamental working
+principle of an API
+
+About this Project
+this project shows a simple api which takes input from another programs output(using the http get method) and shows you the data in the page
+
+i will try to describe each code below the description field 
+
+Thanks
