@@ -1,0 +1,11 @@
+the general wokring structure of an api is either we send some data to it. it takes the data process it and give us the input . or we get data from the api
+BUT NOW LETS DISCUSS A DIFFERENT CASE
+so this is an api endpoint https://api.ipify.org/?format=json
+now if you click the link you will get you ip address as response but the format will be set to JSON value
+now this time 
+https://api.ipify.org/?format=txt (click on this link)
+now what happens this time is that we get the same response but here to value is turned to txt instead of an json object
+
+the entire point of this api is to show that sometimes some api not only just give you response but also gave it in the way that you from it
+in the first scenario we have asked the return value as JSON and the second time as txt
+now as a developer sometimes some api gives us this benifit to get the response data according to our own desired format so that we can implement it in the system
