@@ -5,5 +5,8 @@ EXPLANATION
 so in this problem we have a database where recipies are stored with their steps and time differences our job is to make sure that
 whenever a user makes this kind of request (localhost:8000/receipe/1) it should print the receipe with that number 
 
+to run this program
+command  = node recepies.js
+go to localhost:8000/receipe/1 and change the values
 
 Thanks
