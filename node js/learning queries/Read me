@@ -1,0 +1,8 @@
+so in this exercise we will see how to take url perimiters from user and use them in our porgram 
+now here is a json file our job is take take input from the user as a url and return the processed response
+thats 'it
+the url has 3 fields http://localhost:8000/recipes/?page=3&limit=3&q=1 in case to work we need this 3 fields to fullfill thanks
+to run the program use node sources.js
+
+
+thanks
