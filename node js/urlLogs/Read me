@@ -1,0 +1,3 @@
+have you ever wondered how a website keeps its logs (which user got to which link) so then lets try to make one using node js
+so in this example we are going to store the url logs which user got to
+to run it use node and go to localhost:8000/your address then watch the logs.txt file it should get store there we are using express js framework
